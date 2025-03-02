@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jrevathi301
+- 👋 Hi, I’m @jrevathi
 - 👀 I’m interested in backend Develpoment
 - 🌱 I’m currently learning Springboot and Microservices
 - 💞️ I’m looking to collaborate on Java Springboot
